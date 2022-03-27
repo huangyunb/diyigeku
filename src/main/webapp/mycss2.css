@@ -1,0 +1,61 @@
+#con{
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-image:url("tu2.png");
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    zoom: 1;
+}
+.login_out{
+    float: right;
+    margin-right: 3%;
+    margin-top: 2%;
+    background-color: chartreuse;
+    border-color: aqua;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -khtml-border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    font-weight: 900;
+    font-size:125%
+}
+input{
+    background-color: #9fc5f1;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #fff;
+    font-size:14px;
+    font-weight: bold;
+}
+#time p{
+    color: #1f6dc2;
+    font-size: 48px;
+    font-weight: bold;
+    margin-left:90px;
+    margin-bottom:0px;
+}
+.center{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    top: 8%;
+    left: 10%;
+}
+.submit{
+    background-color: #ff359b;
+    width: 150px;
+    height: 60px;
+}
+

@@ -1,0 +1,51 @@
+#con{
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-image:url("tu1.png");
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    zoom: 1;
+}
+.login_out{
+    float: right;
+    margin-right: 3%;
+    margin-top: 2%;
+    background-color: chartreuse;
+    border-color: aqua;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -khtml-border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    font-weight: 900;
+    font-size:125%
+}
+.center{
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}
+.anniu{
+    width: 200px;
+    padding:8px;
+    background-color: chartreuse;
+    border-color: aqua;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -khtml-border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    font-weight: 900;
+    font-size:125%
+}
